@@ -1,0 +1,17 @@
+---
+applications:
+  .:
+    name: rrem
+    framework:
+      name: node
+      info:
+        mem: 64M
+        description: Node.js Application
+        exec: !!null 
+    infra: aws
+    url: ${name}.${target-base}
+    mem: 64M
+    instances: 1
+    services:
+      mongodb-rrem:
+        type: mongodb

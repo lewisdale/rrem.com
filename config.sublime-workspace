@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"disk",
+				"disk_cache_size"
+			],
+			[
+				"insig",
+				"insightsSummaryDigestForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix",
+				"name": "var http = require('http');"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"lint f",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"pick",
+				"Color picker"
+			],
+			[
+				"picker",
+				"Color picker"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dean/Projects/rrem/package.json",
+		"/Users/dean/.zshrc",
+		"/Users/dean/Projects/biblio/package.json",
+		"/Users/dean/Projects/leveled/test.html",
+		"/Users/dean/Projects/leveled/leveled-browser.js",
+		"/Users/dean/Projects/leveled/README.md",
+		"/Users/dean/Projects/biblio/feat.js",
+		"/Users/dean/Projects/leveled/leveled-browser.html",
+		"/Users/dean/Projects/biblio/name.js",
+		"/Users/dean/Projects/biblio/LICENSE",
+		"/Users/dean/Projects/biblio/db/000020.sst",
+		"/Users/dean/Projects/biblio/db/000025.sst",
+		"/Users/dean/Projects/biblio/db/LOG.old",
+		"/Users/dean/Projects/biblio/db/LOG",
+		"/Users/dean/Projects/biblio/db/CURRENT",
+		"/Users/dean/Projects/biblio/db/000026.log",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/views/layouts/application.html.erb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/fuel/nav/Menu.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/monitor/Grid.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/form/TextField.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/date.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/chart/DatePlot.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/HistogramScale.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/chart/DateChart.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/Dashboard.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/chart/HistoryChart.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/SparkChart.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/ChartPanel.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/config/environments/development.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/user/InsightsSummaryEntry.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/company/data/Audiences.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/company/data/audience/Panel.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/user/InsightsSummaryList.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/helpers/application_helper.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/model/User.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/features/config/smoke.yml",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/users_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/db/schema.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/models/insight.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/lib/image_campaign.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/config/routes.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/models/campaign.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/stylesheets/view/company/data.scss.scss",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/mailers/email_notifier.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/config/deploy.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/mailers/digest_mailer.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/campaigns_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/d3/d3.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/lib/tasks/image.rake",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/insights_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/config/config.yml",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/models/cron.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/user_settings_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/admin/users_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/views/digest_mailer/campaign_digest.html.erb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/user/Grid.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/store/Users.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/lib/tasks/db.rake",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/lib/tasks/fuel.rake",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/models/seeder.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/store/user/Settings.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/models/user.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/views/digest_mailer/campaign_digest.html.erb.todo.rhtml",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/d3/d3.min.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/Gemfile",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/application_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/insights/Summary.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/screencap.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/views/digest_mailer/campaign_digest.html.erb.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/spec/controllers/user_settings_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/mailer_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/lib/util.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/lib/tasks/mail.rake",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/users/registrations_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/config/schedule.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/user/Profile.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/features/step_definitions/auth_steps.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/node/apollo/user.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/fuel/data.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/fuel.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/insights/Insights.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/Monitor.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/fuel/monitor/RealTimeStats.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/features/dev.feature",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/node/config.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/OverallPanel.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/OverallStat.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/OverallStatSpark.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/node/statserver.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/company/data/audience/Edit.js",
+		"/Users/dean/Desktop/casper_image_insights_summary.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/form/ButtonCombo.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/stylesheets/view/user/_all.css.scss",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/company/data/audience/AudienceCondition.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/views/insights_summary_digest_mailer/insights_summary_digest.html.erb",
+		"/Users/dean/Projects/HowTracker/config/environment.rb",
+		"/Users/dean/Projects/HowTracker/config/application.rb",
+		"/Users/dean/Library/Application Support/Sublime Text 2/Packages/User/Clouds.tmTheme",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/models/user_setting.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/nav/Breadcrumbs.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/nav/UserMenu.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/fuel/nav.js",
+		"/Users/dean/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/fuel/auth.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/config/database.yml",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/spec/factories.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/spec/support/devise.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/spec/controllers/ping_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/users/help_controller.rb",
+		"/Users/dean/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/dean/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/controllers/users/settings_controller.rb",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/Main.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/chart/DateAxis.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/chart/BarScale.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/company/data/AttributedChannel.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/.git/COMMIT_EDITMSG",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/app/view/campaign/dashboard/BarScale.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/node/apollo/stats.js",
+		"/Users/dean/Projects/HowTracker/app/assets/javascripts/HT/Feed.js",
+		"/Users/dean/Projects/rocketfuel/ui/fuel/app/assets/javascripts/ext-all-debug-w-comments.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/dean/Projects/biblio",
+			"/Users/dean/Projects/rocketfuel/ui/fuel",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"client.html",
+			"trait",
+			"protocol",
+			"protocol\n",
+			"protocol",
+			"schema",
+			"    ",
+			"nil",
+			"FEAT",
+			"print_map",
+			"new_node",
+			"is_own",
+			"nap",
+			"vec",
+			"Vec",
+			"create_vec",
+			"Map",
+			"feat",
+			"keys",
+			"is_nap",
+			"objectStore",
+			"setVersion",
+			"myObjectStore",
+			"cheat",
+			"chat",
+			"exponentMaximum",
+			"_descr",
+			"long",
+			"exports",
+			"weakmap",
+			"value",
+			"print_vec",
+			"env",
+			"isdemo",
+			"iconcls",
+			"link",
+			"small",
+			"small-silver",
+			"ui:",
+			"visible",
+			"ext.button",
+			"overallpanel",
+			"parse",
+			"localdate",
+			"fuel.date.history",
+			"historySource",
+			"historysource",
+			"source",
+			"plotPane",
+			"graphdata",
+			"data",
+			"averagep",
+			"dateplot",
+			"source",
+			"pacingChartPanel",
+			"statItems",
+			"emptyseries",
+			"bilinear",
+			"console.log",
+			":after",
+			"actionmailer::base",
+			"emailnotifier",
+			"fileutils",
+			"mkdir",
+			"status",
+			"TOKEN_SUBSCRIPTION_EXPIRES_AFTER",
+			"expir",
+			"authentication_tok",
+			"render",
+			"authenticate_user",
+			"authen",
+			"token",
+			"seed_users",
+			"users",
+			"user",
+			"users",
+			"load_users",
+			"proxy",
+			"store",
+			"is_fuel_enabled",
+			"user_id",
+			"send_data",
+			"campaign",
+			"company",
+			"user",
+			"d3_scale_bili",
+			"console.log",
+			"interpolate(",
+			"interpolators",
+			"interpolateobject",
+			"interpolateObject",
+			"d3.interpolators",
+			"interpolateObject",
+			"token",
+			"authen",
+			"console.log",
+			"token_subscription",
+			"user_scope",
+			"image",
+			"setting_prefix",
+			"generate_s",
+			"private",
+			"json",
+			"xvfb",
+			"include applicationhelper",
+			"sani",
+			"sanitize",
+			"args",
+			"definer",
+			"definer_",
+			"console",
+			"dashboard_url",
+			"authentication token error",
+			"TOKEN_SUBSCRIPTION_EXPIRES_AFTER",
+			"to_i",
+			"notifier",
+			"app_config",
+			"<<<<",
+			"app_config",
+			"use real time",
+			"prefix",
+			"formatter",
+			"statSparks",
+			"statSparksConfig",
+			"cvr",
+			"runnables",
+			"mask"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "var http = require('http');",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": false,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": false,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"menu",
+				"app/assets/javascripts/fuel/nav/Menu.js"
+			],
+			[
+				"menu.js",
+				"app/assets/javascripts/fuel/nav/Menu.js"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicationcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"modelsinsight",
+				"app/models/insight.rb"
+			],
+			[
+				"sch",
+				"config/schedule.rb"
+			],
+			[
+				"usersettingscon",
+				"app/controllers/user_settings_controller.rb"
+			],
+			[
+				"applicaticontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"view/campaignsummary",
+				"app/assets/javascripts/app/view/campaign/insights/Summary.js"
+			],
+			[
+				"userregis",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"smok",
+				"features/config/smoke.yml"
+			],
+			[
+				"config/config",
+				"config/config.yml"
+			],
+			[
+				"features/dev",
+				"features/dev.feature"
+			],
+			[
+				"realtimestat",
+				"app/assets/javascripts/fuel/monitor/RealTimeStats.js"
+			],
+			[
+				"config.yml",
+				"config/config.yml"
+			],
+			[
+				"config.js",
+				"node/config.js"
+			],
+			[
+				"insightsumm",
+				"app/assets/javascripts/app/view/campaign/insights/Summary.js"
+			],
+			[
+				"nav.js",
+				"app/assets/javascripts/fuel/nav.js"
+			],
+			[
+				"channel",
+				"app/assets/javascripts/app/view/company/data/AttributedChannel.js"
+			],
+			[
+				"chartpanel",
+				"app/assets/javascripts/app/view/campaign/dashboard/ChartPanel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}

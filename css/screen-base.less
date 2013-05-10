@@ -1,0 +1,109 @@
+/* Here we define the standard styles that are applied all screens  */
+
+/* ================= GRID SETUP ==================
+ * This mixin sets up the foundation for your grid
+ * it is nescessary that this is called outside any
+ * element because it provides variables that must
+ * be in the global scope. Otherwise the grid system
+ * won't work as excpected.
+
+ *  .grid_setup - MIXIN
+ *  The core function of the grid module, that builds up
+ *  the basic structure and provides you with any number of
+ *  columns with custom gap size, min-width and max-width 
+ *
+ *  it's also the setup function for all other grid
+ *  modules. So you can define most presets in one
+ *  mixin call.
+ *  
+ *  @width   - defines the width of the grid (any css unit)
+ *  @columns - specifies the number of columns in the grid (plane number)
+ *  @gap     - The gap between elements in the grid (any css unit)
+ *	@align   - align the grid on left / center / right side of parent
+ *  @min     - minimal width of the grid (any css unit)
+ *  @max     - maximal width of the grid (any css unit)
+ */
+
+/* setup for all browsers that don't understand media queries */
+.grid_setup(100%, 10, 2em, left, 740px, 960px);
+
+
+/* The body element can be used to apply the vertical rhythm
+ * to your document or other type and color sheme related setups */
+body {
+	padding-top: 0px; /* add a little spacing above */
+}
+/* convenient skip link functionality included in the nav module */
+#skip-link {
+	.nav_skip_link();
+}
+
+/* This is the wrapper element we declare as grid */
+#page {
+	.grid();
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	//background-color: #413D3D;
+	background-color: #040004;
+}
+
+/* override grid settings for browsers that can react to  small screen sizes */
+@media only screen and (min-width: 0px) {
+	#page {
+		/* change min-width to 0px to allow smaller sizes */
+		.grid(@grid_width, @grid_columns, @grid_gap, @grid_align, 0px, 960px);	
+	}
+}
+
+header {
+	/* the header element spans all 8 columns */
+	.grid_span(8);
+	/* add gaps on both sides */
+	.grid_gap_both;
+}
+
+
+/* this element is a wrapper for the equal columns used
+ * in this example. If you don't need equal columns, than
+ * you don't have to wrap them 
+ */
+#content {
+	/* define this element as column wrapper */
+	.grid_col_wrap();
+	/* define it specifically as equal column wrapper */
+	.grid_col_equal_wrap();	
+}
+
+
+
+article {
+	.grid_span(8); /* the article is 4 columns wide */
+	.grid_left(); /* it floats left */
+	.grid_gap_both; /* has gaps on both sides */
+	/* is shifted 2 columns to the right to swap
+	 * position with the first sidebar although its
+	 * the first element in markup ;-) */
+	.grid_shift_right(2); 
+	/* make this column an equal height column */
+	.grid_col_equal();
+}
+
+#sidebar {
+	.grid_span(2); /* the sidebar is 2 columns wide */
+	.grid_left(); /* it floats left (but would be beside the article on the right) */
+	.grid_shift_left(8); /* if we didn't shift it to the left 4 columns */
+	.grid_gap_both; /* add gaps on both sides */
+	.grid_col_equal(); /* make this column an equal height column */
+}
+
+#sidebar ul {
+	padding-left: 1em;
+}
+
+#sidebar li {
+	padding-left: 1em;
+	background-image: url('../images/arrow.gif');
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
+}
+
