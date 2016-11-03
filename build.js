@@ -53,7 +53,7 @@ function buildPropertyPage(name) {
 	var obj = properties[name];
 	// FIXME remove the crappy style hack
 	return [
-		'<h1 style="color:white">' + obj.name + '</h1>',
+		'<h1 style="color:black">' + obj.name + '</h1>',
 		'<p><a href="$frame.html?' + encodeURIComponent(obj.link) + '">showcase profile</a></p>'
 	].join("\n");
 };
